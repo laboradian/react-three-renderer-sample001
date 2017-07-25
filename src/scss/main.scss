@@ -1,0 +1,15 @@
+@import './bootstrap-variables';
+@import './bootstrap-custom';
+
+body {
+  padding: 20px;
+}
+
+footer {
+  text-align: right;
+}
+
+#myCanvas2 {
+  margin-top: 5px;
+  border: 1px solid #dfe2e5;
+}
